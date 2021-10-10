@@ -12,7 +12,17 @@ def main():
     print_greeting("world")
 
 #
+# greet all the planets
+#
+def greet_all_planets():
+    for planet in ["Mercury", "Venus",
+                   "Earth", "Mars",
+                   "Jupiter", "Saturn",
+                   "Uranus", "Neptune"]:
+        print_greeting(planet)
+
+#
 # and call it
 #
 main()
-
+greet_all_planets()
