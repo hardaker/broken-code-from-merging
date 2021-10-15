@@ -5,7 +5,7 @@ sets of code.  But it's really just taking changes and applying them
 because different people were editing different parts of the code.  It
 **still doesn't understand the code** though.  It can't fix
 fundamental differences in two people making two different changes
-that are incompatible, **but it different parts of a file**.
+that are incompatible, **but in different parts of a file**.
 
 # Example
 
